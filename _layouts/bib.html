@@ -41,7 +41,9 @@
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <!-- <em>{{author.last}}, {{author.first}}</em> -->
-                <em>{{author.last}}, {{author.first.slice(0,1)}}</em>
+                let text = "Hello world!";
+                let result = text.substring(0,1);
+                <em>{{author.last}}, {{author.first}}, result</em>
               {%- else -%}
                 {{author.last}}, {{author.first}}
               {%- endif -%}
