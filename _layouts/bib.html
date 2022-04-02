@@ -41,6 +41,13 @@
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <!-- <em>{{author.last}}, {{author.first}}</em> -->
+
+                <script>
+                  let str = {{author.first}}
+                  let first_char = str.charAt(0)
+                  document.write("XXX:", first_char);
+                </script>
+
                 <em>{{author.last}} {{author.first}} </em>
               {%- else -%}
                 {{author.last}} {{author.first}}
