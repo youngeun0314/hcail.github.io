@@ -1,8 +1,10 @@
 ---
 layout: page
-title: member 1
-description: member 1 description
+title: Hyunggu Jung
+subtitle: Director of HCAIL
+description:  I’m a (tenured) assistant professor. I’m a (tenured) assistant professor. I’m a (tenured) assistant professor.
 img: assets/img/12.jpg
+redirect: http://hyunggujung.com/
 importance: 1
 category: work
 ---
