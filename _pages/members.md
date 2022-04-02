@@ -5,7 +5,7 @@ permalink: /members/
 description: Members.
 nav: true
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/members.md -->
