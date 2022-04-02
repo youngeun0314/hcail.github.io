@@ -37,10 +37,11 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-            
+
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>
+                <!-- <em>{{author.last}}, {{author.first}}</em> -->
+                <em>{{author.last}}, {{author.first.slice(0,1)}}</em>
               {%- else -%}
                 {{author.last}}, {{author.first}}
               {%- endif -%}
@@ -87,7 +88,7 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
