@@ -2,9 +2,9 @@
 layout: page
 title: members
 permalink: /members/
-description: Members.
+description: as of April 2022
 nav: true
-display_categories: [work, fun]
+display_categories: [current, fun]
 horizontal: false
 ---
 

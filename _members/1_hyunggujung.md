@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Hyunggu Jung
-subtitle: Director of HCAIL
-description:  I’m a (tenured) assistant professor. I’m a (tenured) assistant professor. I’m a (tenured) assistant professor.
-img: assets/img/11.jpg
+title_s1: HCAIL Director
+title_s2: University of Seoul
+description: hjung [at] uos.ac.kr
+img: assets/img/profhjung.png
 redirect: http://hyunggujung.com/
 importance: 1
-category: work
+category: current
 ---
 
 Every project has a beautiful feature showcase page.

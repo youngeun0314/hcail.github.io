@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Jihyun Lee
-description: Undergraduate Research Intern
-img: assets/img/3.jpg
+title_s1: Undergraduate Research Intern
+title_s2: Kyung Hee University
+description: 2018102130 [at] khu.ac.kr
+img: assets/img/jlee.png
+redirect: https://sites.google.com/khu.ac.kr/2azy/
 importance: 2
-category: work
+category: current
 ---
 
 Every project has a beautiful feature showcase page.
