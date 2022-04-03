@@ -60,18 +60,44 @@ horizontal: false
 ---
 
 ### Sponsored Research Projects
-<table class="imgtable"><tr><td>
+<table class="imgtable"><tr>
+<!-- <td>
 <img src="/assets/img/da.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
-<td align="left"><h5>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</h5>
-<h6>Principle Investigator, National Research Foundation of Korea (via Ministry of Science and ICT)</h6>
-<h6>Mar. 2020 - Feb. 2023</h6>
+-->
+<td align="left">
+<b>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</b>
+<p>Principle Investigator, National Research Foundation of Korea
+(via Ministry of Science and ICT)
+<br>
+Mar. 2020 - Feb. 2023</p>
 </td></tr></table>
 
 ---
 
 ### Completed Sponsored Research Projects
-<table class="imgtable"><tr><td>
-<img src="/assets/img/mr.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<table class="imgtable">
+<tr>
+<!-- <td>
+<img src="/assets/img/mr.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;
+</td>
+-->
+<td align="left">
+  <h5>
+    Development of Technology for Quantifying Web Accessibility Based on Big Data to Improve Accessibility to Information for People with Visual Impairments
+  </h5>
+  <h6>
+    Principle Investigator, Seoul Metropolitan Government (서울특별시 시정연구)
+  </h6>
+  <h6>
+    Apr. 2021 - Dec. 2021
+  </h6>
+</td></tr></table>
+
+<table class="imgtable"><tr>
+<!-- <td>
+<img src="/assets/img/mr.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;
+</td>
+-->
 <td align="left">
   <h5>
     AI Application Technology with MR-IoT Convergence to Countermeasure Disasters
@@ -84,8 +110,11 @@ horizontal: false
   </h6>
 </td></tr></table>
 
-<table class="imgtable"><tr><td>
-<img src="/assets/img/da.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<table class="imgtable"><tr>
+<!-- <td>
+<img src="/assets/img/da.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;
+</td>
+-->
 <td align="left">
     <h5>
     Development of a Smartphone Application for Dietary Assessment

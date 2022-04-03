@@ -4,7 +4,7 @@ title:  Social media accessibility
 description:
 img: #assets/img/proj_1.png
 importance: 1
-category: Acessibility & Aging
+category: Accessibility & Aging
 ---
 
 <h3>Improving accessibility of social media for people with visual impairments</h3>

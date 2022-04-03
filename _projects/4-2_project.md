@@ -4,7 +4,7 @@ title: Metaverse for older adults
 description:
 img: #assets/img/proj_1.png
 importance: 2
-category: Acessibility & Aging
+category: Accessibility & Aging
 ---
 
 <h3>Building and evaluating metaverse environments to support older adults</h3>
