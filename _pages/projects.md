@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: HCAIL is currently supported by three major grants: (1) the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT), (2) grant by the University of Seoul, & (3) grant by the Seoul Metropolitan Government.
 nav: true
 display_categories: [Artificial Intelligence, Digital Health, Social Computing, Acessibility & Aging]
 horizontal: false
