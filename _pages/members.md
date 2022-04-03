@@ -4,7 +4,7 @@ title: members
 permalink: /members/
 description: as of April 2022
 nav: true
-display_categories: [current, fun]
+display_categories: [current]
 horizontal: false
 ---
 
@@ -55,3 +55,5 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+## Alumni
