@@ -56,15 +56,95 @@ horizontal: false
 {%- endif -%}
 </div>
 
-<ul>
-<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
-</li>
-<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
-</li>
-<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
-</li>
-<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
-</li>
-<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
-</li>
-</ul>
+<table style="width:100%">
+  <tr>
+    <td class="c2">Joonyoung Jun</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">University of washington</td>
+    <td class="c2">Spring 2020 - Fall 2021</td>
+  </tr>
+  <tr>
+    <td class="c2">Jeongjin Park</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Purdue University</td>
+    <td class="c2">Spring 2021 - Spring 2021</td>
+  </tr>
+  <tr>
+    <td class="c2">Hyuk Gi Lee</td>
+    <td class="c2">Research Intern</td>
+    <td class="c2">University of Washington</td>
+    <td class="c2">Summer 2020 - Spring 2021</td>
+  </tr>
+  <tr>
+    <td class="c2">Jihyeon Park</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Cornell University</td>
+    <td class="c2">Summer 2020 - Spring 2021</td>
+  </tr>
+  <tr>
+    <td class="c2">Haeul Lee</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">University of Seoul</td>
+    <td class="c2">Fall 2020 - Winter 2020</td>
+  </tr>
+  <tr>
+    <td class="c2">Changgeon Lim</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">University of Seoul</td>
+    <td class="c2">Fall 2020 - Winter 2020</td>
+  </tr>
+  <tr>
+    <td class="c2">Wanhae Lee</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Kakao Corp.</td>
+    <td class="c2">Fall 2019 - Winter 2020</td>
+  </tr>
+  <tr>
+    <td class="c2">Suin Gwak</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">University of Seoul</td>
+    <td class="c2">Fall 2019 - Winter 2020</td>
+  </tr>
+  <tr>
+    <td class="c2">Jaewon Choi</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">University of Washington</td>
+    <td class="c2">Summer 2020 - Fall 2020</td>
+  </tr>
+  <tr>
+    <td class="c2">Minji Kwon</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Kyung Hee University</td>
+    <td class="c2">Fall 2019 - Spring 2020</td>
+  </tr>
+  <tr>
+    <td class="c2">Yewon Hyun</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">POSTECH</td>
+    <td class="c2">Fall 2019 - Winter 2019</td>
+  </tr>
+  <tr>
+    <td class="c2">Heejae Jung</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Kyung Hee University</td>
+    <td class="c2">Fall 2018 - Summer 2019</td>
+  </tr>
+  <tr>
+    <td class="c2">Minyeong Seo</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Kyung Hee University</td>
+    <td class="c2">Spring 2019 - Summer 2019</td>
+  </tr>
+  <tr>
+    <td class="c2">Yiji Bae</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Kyung Hee University</td>
+    <td class="c2">Fall 2018 - Spring 2019</td>
+  </tr>
+  <tr>
+    <td class="c2">Hyeonjin Jeon</td>
+    <td class="c2">Undergraduate Research Intern</td>
+    <td class="c2">Kyung Hee University</td>
+    <td class="c2">Fall 2018 - Winter 2018</td>
+  </tr>
+</table>
