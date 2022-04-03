@@ -57,3 +57,7 @@ horizontal: false
 </div>
 
 ## Alumni
+<ul>
+<li>Joonho Gwon, Undergraduate Research Intern, University of washington, Spring 2020 - Fall 2021
+</li>
+</ul>
