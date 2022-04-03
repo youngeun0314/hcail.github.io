@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-display_categories: [work, fun]
+display_categories: [Artificial Intelligence, Digital Health, Social Computing, Acessibility & Aging]
 horizontal: false
 ---
 
