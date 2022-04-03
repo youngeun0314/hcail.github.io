@@ -1,21 +1,40 @@
 ---
-layout: about
+layout: none
 title: news
 permalink: /
 subtitle:
-
-profile:
-  align: #right
-  image: #prof_pic.jpg
-  address: #>
-  #  <p>555 your office number</p>
-  #  <p>123 your address street</p>
-  #  <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+<div class="news">
+  <h2>news</h2>
+  {% if site.news != blank -%}
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+    {%- assign news = site.news | reverse -%}
+    {% for item in news limit: site.news_limit %}
+      <tr>
+        <!-- <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th> -->
+        <th scope="row">{{ item.date | date: "%b %Y" }}</th>
+        <td>
+          {% if item.inline -%}
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {%- else -%}
+            <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {%- endif %}
+        </td>
+      </tr>
+    {%- endfor %}
+    </table>
+  </div>
+{%- else -%}
+  <p>No news so far...</p>
+{%- endif %}
+</div>
+
 
 <ul>
 <li>
