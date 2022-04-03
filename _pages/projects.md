@@ -61,24 +61,35 @@ horizontal: false
 
 ### Sponsored Research Projects
 <table class="imgtable"><tr><td>
-<img src="../assets/img/da.jpg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
-<td align="left"><p><b>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</b>
-<br />Principle Investigator, National Research Foundation of Korea (via Ministry of Science and ICT)
-<br />Mar. 2020 - Feb. 2023 </p>
+<img src="/assets/img/da.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<td align="left"><h5>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</h5>
+<h6>Principle Investigator, National Research Foundation of Korea (via Ministry of Science and ICT)</h6>
+<h6>Mar. 2020 - Feb. 2023</h6>
 </td></tr></table>
 
 ---
 
 ### Completed Sponsored Research Projects
 <table class="imgtable"><tr><td>
-<img src="../assets/img/mr.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
-<td align="left"><p><b>AI Application Technology with MR-IoT Convergence to Countermeasure Disasters</b>
-<br />Co-Investigator, Ajou University (via Ministry of Science and ICT)
-<br />June 2018 - Dec. 2021 </p>
+<img src="/assets/img/mr.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<td align="left">
+  <h5>
+    AI Application Technology with MR-IoT Convergence to Countermeasure Disasters
+  </h5>
+  <h6>
+    Co-Investigator, Ajou University (via Ministry of Science and ICT)
+  </h6>
+  <h6>
+    June 2018 - Dec. 2021
+  </h6>
 </td></tr></table>
+
 <table class="imgtable"><tr><td>
-<img src="../assets/img/da.jpg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
-<td align="left"><p><b>Development of a Smartphone Application for Dietary Assessment</b>
-<br />Principle Investigator, Kyung Hee University
-<br />Sep. 2018 - Aug. 2019 </p>
+<img src="/assets/img/da.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<td align="left">
+    <h5>
+    Development of a Smartphone Application for Dietary Assessment
+    </h5>
+  <h6>Principle Investigator, Kyung Hee University</h6>
+  <h6>Sep. 2018 - Aug. 2019</h6>
 </td></tr></table>
