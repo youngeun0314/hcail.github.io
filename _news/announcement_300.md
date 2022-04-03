@@ -6,6 +6,6 @@ inline: true
 
 
 Congratulations! The team HCAIL organized by our lab members
-including Subin Park, 
+including Subin Park,
 Taewon ­Yoo, Minki Chun, & Hyunggu Jung won the Excellent Prize at the
-<a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">Barrier Free App Development Contest</a> in Korea! :sparkles: :smile:
+<a href="https://www.autoeverapp.kr">Barrier Free App Development Contest</a> in Korea! :sparkles: :smile:
