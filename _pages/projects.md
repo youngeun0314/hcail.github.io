@@ -66,8 +66,7 @@ horizontal: false
 -->
 <td align="left">
 <b>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</b>
-<p>Principle Investigator, National Research Foundation of Korea
-(via Ministry of Science and ICT)
+<p>Principle Investigator, National Research Foundation of Korea [한국연구재단 생해첫연구]
 <br>
 Mar. 2020 - Feb. 2023</p>
 </td></tr></table>
@@ -82,15 +81,14 @@ Mar. 2020 - Feb. 2023</p>
 </td>
 -->
 <td align="left">
-  <h5>
+<b>
     Development of Technology for Quantifying Web Accessibility Based on Big Data to Improve Accessibility to Information for People with Visual Impairments
-  </h5>
-  <h6>
-    Principle Investigator, Seoul Metropolitan Government (서울특별시 시정연구)
-  </h6>
-  <h6>
+</b>
+<p>
+    Principle Investigator, Seoul Metropolitan Government [서울특별시 시정연구]
+<br>
     Apr. 2021 - Dec. 2021
-  </h6>
+</p>
 </td></tr></table>
 
 <table class="imgtable"><tr>
@@ -99,15 +97,14 @@ Mar. 2020 - Feb. 2023</p>
 </td>
 -->
 <td align="left">
-  <h5>
+<b>
     AI Application Technology with MR-IoT Convergence to Countermeasure Disasters
-  </h5>
-  <h6>
+</b>
+<p>
     Co-Investigator, Ajou University (via Ministry of Science and ICT)
-  </h6>
-  <h6>
+<br>
     June 2018 - Dec. 2021
-  </h6>
+</p>
 </td></tr></table>
 
 <table class="imgtable"><tr>
@@ -116,9 +113,10 @@ Mar. 2020 - Feb. 2023</p>
 </td>
 -->
 <td align="left">
-    <h5>
+<b>
     Development of a Smartphone Application for Dietary Assessment
-    </h5>
-  <h6>Principle Investigator, Kyung Hee University</h6>
-  <h6>Sep. 2018 - Aug. 2019</h6>
+  </b>
+<p>Principle Investigator, Kyung Hee University
+  <br>Sep. 2018 - Aug. 2019
+  </p>
 </td></tr></table>
