@@ -4,7 +4,7 @@ title: members
 permalink: /members/
 description: as of April 2022
 nav: true
-display_categories: [current]
+display_categories: [current, alumni]
 horizontal: false
 ---
 
@@ -58,6 +58,14 @@ horizontal: false
 
 ## Alumni
 <ul>
-<li>Joonho Gwon, Undergraduate Research Intern, University of washington, Spring 2020 - Fall 2021
+<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
+</li>
+<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
+</li>
+<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
+</li>
+<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
+</li>
+<li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
 </li>
 </ul>
