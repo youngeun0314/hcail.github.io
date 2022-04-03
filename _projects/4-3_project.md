@@ -4,7 +4,7 @@ title: Toward accessible daily living
 description:
 img: #assets/img/proj_1.png
 importance: 3
-category: Acessibility & Aging
+category: Accessibility & Aging
 ---
 
 <h3>Toward accessible daily living: challenges & opportunities</h3>
