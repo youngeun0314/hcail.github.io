@@ -5,12 +5,12 @@ permalink: /
 subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  align: #right
+  image: #prof_pic.jpg
+  address: #>
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -37,11 +37,3 @@ We are pursing research in the combinations of the following directions:
 <li>Health Informatics</li>
 <li>Human-Computer Interaction</li>
 </ul>
-
-  ---
-  sdfsdf
-  sdfsdf
-  sdfsdf
-  ---
-
-  
