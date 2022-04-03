@@ -1,6 +1,6 @@
 ---
 layout: page
-title: members
+title: people
 permalink: /members/
 description: as of April 2022
 nav: true

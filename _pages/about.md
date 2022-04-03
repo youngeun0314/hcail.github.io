@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle:
 
@@ -23,17 +23,35 @@ in the Department of Computer Science and Engineering
 at the University of
 Seoul.
 We enjoy working on the intersection of multiple domains:
-`human-centered AI`, `digital health`, `social computing`,
-and `accessibility & aging`.
-
-Our mission is
-to advance AI research through design and engineering
-to support individuals with special needs
-across multiple domains:
-health, social media, sharing economy, and education but not limited to those areas.
+`Human-centered AI`, `Digital Health`, `Social Computing`,
+and `Accessibility & Aging`.
 We are pursing research in the combinations of the following directions:
 <ul>
 <li>Artificial Intelligence</li>
 <li>Health Informatics</li>
 <li>Human-Computer Interaction</li>
 </ul>
+
+<blockquote>
+Our mission is
+to advance AI research through design and engineering
+to support individuals with special needs
+across multiple domains:
+health, social media, sharing economy, and education but not limited to those areas.
+</blockquote>
+
+---
+
+#### Interested in joining HCAIL as a MS or PhD student?
+Visit \[[석사과정/박사과정 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\] and feel free to email me if you are interested in joining HCAIL a MS.or PhD student. For Fall 2022, we aim to admit up to <font color="red"><b>2-3 new M.S. or Ph.D. students</b></font>.
+
+HCAIL 연구실 자료 참고바랍니다:
+\[[슬라이드](https://docs.google.com/presentation/d/1dLdkG51tykdBF7ljAPTrbqyBCR6B3QKO6wicJYrEzJg/edit#slide=id.p)\]
+\[[영상](https://youtu.be/InN5-mk6TrU)\]
+
+---
+
+#### Research intern opportunities for undergraduate students
+Visit \[[학부연구생 인턴 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\]  and feel free to email me if you are interested in joining a unique research opportunity.
+
+---

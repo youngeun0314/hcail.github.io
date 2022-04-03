@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description:
+description: We pursue research in the combinations of AI, Health, & HCI.
 nav: true
 display_categories: [Artificial Intelligence, Digital Health, Social Computing, Accessibility & Aging]
 horizontal: false
