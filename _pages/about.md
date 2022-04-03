@@ -38,15 +38,10 @@ We are pursing research in the combinations of the following directions:
 <li>Human-Computer Interaction</li>
 </ul>
 
-
-<ul>
-<li>Artificial Intelligence</li>
-<li>Health Informatics</li>
-<li>Human-Computer Interaction</li>
-</ul>
-
   ---
   sdfsdf
   sdfsdf
   sdfsdf
   ---
+
+  
