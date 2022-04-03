@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: HCAIL is currently supported by three major grants: (1) the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT), (2) grant by the University of Seoul, & (3) grant by the Seoul Metropolitan Government.
+description:
 nav: true
 display_categories: [Artificial Intelligence, Digital Health, Social Computing, Accessibility & Aging]
 horizontal: false
 ---
 
+### Ongoing Research Projects
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -55,3 +56,29 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+---
+
+### Sponsored Research Projects
+<table class="imgtable"><tr><td>
+<img src="../assets/img/da.jpg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<td align="left"><p><b>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</b>
+<br />Principle Investigator, National Research Foundation of Korea (via Ministry of Science and ICT)
+<br />Mar. 2020 - Feb. 2023 </p>
+</td></tr></table>
+
+---
+
+### Completed Sponsored Research Projects
+<table class="imgtable"><tr><td>
+<img src="../assets/img/mr.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<td align="left"><p><b>AI Application Technology with MR-IoT Convergence to Countermeasure Disasters</b>
+<br />Co-Investigator, Ajou University (via Ministry of Science and ICT)
+<br />June 2018 - Dec. 2021 </p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="../assets/img/da.jpg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+<td align="left"><p><b>Development of a Smartphone Application for Dietary Assessment</b>
+<br />Principle Investigator, Kyung Hee University
+<br />Sep. 2018 - Aug. 2019 </p>
+</td></tr></table>
