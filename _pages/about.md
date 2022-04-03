@@ -26,7 +26,7 @@ We enjoy working on the intersection of multiple domains:
 `human-centered AI`, `digital health`, `social computing`,
 and `accessibility & aging`.
 
-Our mission mission is
+Our mission is
 advancing AI research through design and engineering
 to support individuals with special needs
 across multiple domains:
