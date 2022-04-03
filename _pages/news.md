@@ -1,26 +1,18 @@
 ---
-layout: post
+layout: page
 title: news
 permalink: /news/
-description: as of April 2022
+description:
 nav: true
 display_categories: [current, alumni]
 horizontal: false
 ---
 
----
-layout: post
-date: 2013-06-01 00:00:00-0000
-inline: true
----
-
-Hyunggu Jung was a research intern at Microsoft Research.
-
-
-
+#### 2018
+<hr>
 <ul>
 <li>
-Hyunggu Jung was a research intern at Microsoft Research.
+<b>[Jan 2018]</b> Hyunggu Jung was a research intern at Microsoft Research.
 </li>
 <li>
 Invited Talk at College of Nursing, Seoul National University, Seoul, Korea.
@@ -30,25 +22,21 @@ Hyunggu Jung was a research intern at Microsoft Research.
 </li>
 </ul>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
+#### 2014
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+<li>[Dec. 2014] Invited Talk at School of Human ICT Convergence, Sungkyunkwan University, Suwon, Korea.
+</li>
+<li>[Dec. 2014] Invited Talk at Department of Biomedical Informatics, Ajou University School of Medicine, Suwon, Korea.
+</li>
+<li>[Jan. 2014] Invited Talk at College of Nursing, Seoul National University, Seoul, Korea.
+</li>
 </ul>
+---
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+#### 2013
+<ul>
+<li>
+[Jun-Sep 2013] Hyunggu Jung was a Research Intern at Microsoft Research.
+</li>
+</ul>

@@ -56,7 +56,6 @@ horizontal: false
 {%- endif -%}
 </div>
 
-## Alumni
 <ul>
 <li>Joonho Gwon, Undergraduate Research Intern, University of Seoul, Spring 2020 - Fall 2021
 </li>

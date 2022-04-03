@@ -27,7 +27,7 @@ We enjoy working on the intersection of multiple domains:
 and `accessibility & aging`.
 
 Our mission is
-advancing AI research through design and engineering
+to advance AI research through design and engineering
 to support individuals with special needs
 across multiple domains:
 health, social media, sharing economy, and education but not limited to those areas.
