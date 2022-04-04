@@ -60,7 +60,7 @@ horizontal: false
   <tr>
     <td class="c2">Joonyoung Jun</td>
     <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">University of washington</td>
+    <td class="c2">University of Washington</td>
     <td class="c2">Spring 2020 - Fall 2021</td>
   </tr>
   <tr>
