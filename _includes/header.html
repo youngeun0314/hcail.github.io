@@ -7,12 +7,11 @@
           {% if page.title != "about" -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
               <!-- {%- if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif -%} -->
-              {%- if site.title == "blank" -%}<span class="font-weight-bold"><img src="/assets/img/Logo_Title_Color_Shade.png" alt="HCAIL"/></span> {%- else -%}{{ site.title }}{%- endif -%}
+              {%- if site.title == "blank" -%}<span class="active"><img src="/assets/img/Logo_Title_Color_Shade.png" alt="HCAIL"/></span> {%- else -%}{{ site.title }}{%- endif -%}
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
           <div class="navbar-brand social">
-            <img src="/assets/img/Logo_Title_Color.png" alt="HCAIL"/>
             {% include social.html %}
           </div>
           {% endif %}
