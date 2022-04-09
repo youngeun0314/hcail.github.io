@@ -5,11 +5,6 @@ title_s1: HCAIL Director
 title_s2: University of Seoul
 description: hjung [at] uos.ac.kr
 img: assets/img/profhjung.png
-<<<<<<< HEAD
-redirect:
-=======
-redirect: 
->>>>>>> aa54a079cb4944313b7d73ea210b70cd89eea7cf
 importance: 1
 category: current
 ---
