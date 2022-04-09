@@ -9,7 +9,6 @@ importance: 1
 category: current
 ---
 
-<<<<<<< HEAD
 ### Short Bio
 <p>Hyunggu Jung is an assistant professor of <a href="https://www.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science and Engineering</a> and an assistant professor
 of <a href="https://www.uos.ac.kr/engineering/depart/ai/welcome.do">Artificial Intelligence</a> at the <a href="https://www.uos.ac.kr/en/main.do">University of Seoul</a>
