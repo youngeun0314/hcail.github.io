@@ -50,8 +50,13 @@ HCAIL 연구실 자료 참고바랍니다:
 
 ---
 
+<<<<<<< HEAD
 #### Interested in a unique opportunity for undergraduate students?
 Visit \[[학부연구생 인턴 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\]  and feel free to email me if you are interested in joining a unique <font color="red"><b>research intern</b></font> opportunity.
+=======
+#### Interested in a research opportunity for undergraduate students?
+Visit \[[학부연구생 인턴 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\]  and feel free to email me if you are interested in a unique <font color="red"><b>research intern</b></font> opportunity.
+>>>>>>> aa54a079cb4944313b7d73ea210b70cd89eea7cf
 HCAIL is ready for maximizing your research potential during your internship.
 
 ---
