@@ -66,9 +66,26 @@ horizontal: false
 -->
 <td align="left">
 <b>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</b>
-<p>Principle Investigator, National Research Foundation of Korea [한국연구재단 생해첫연구]
+<p>Principle Investigator, National Research Foundation of Korea `한국연구재단 생애첫연구`
 <br>
 Mar. 2020 - Feb. 2023</p>
+</td></tr></table>
+
+<table class="imgtable">
+<tr>
+<!-- <td>
+<img src="/assets/img/mr.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;
+</td>
+-->
+<td align="left">
+<b>
+    Development of AI-based Technology for Improving Accessibility to Information for People with Visual Impairments
+</b>
+<p>
+    Principle Investigator, Seoul Metropolitan Government `서울특별시 시정연구`
+<br>
+    Apr. 2022 - Dec. 2022
+</p>
 </td></tr></table>
 
 ---
@@ -85,7 +102,7 @@ Mar. 2020 - Feb. 2023</p>
     Development of Technology for Quantifying Web Accessibility Based on Big Data to Improve Accessibility to Information for People with Visual Impairments
 </b>
 <p>
-    Principle Investigator, Seoul Metropolitan Government [서울특별시 시정연구]
+    Principle Investigator, Seoul Metropolitan Government `서울특별시 시정연구`
 <br>
     Apr. 2021 - Dec. 2021
 </p>
