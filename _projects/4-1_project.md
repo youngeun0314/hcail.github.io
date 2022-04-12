@@ -2,7 +2,7 @@
 layout: page
 title:  Social media accessibility
 description:
-img: #assets/img/proj_1.png
+img: 3assets/img/proj_4-1.png
 importance: 1
 category: Accessibility & Aging
 ---

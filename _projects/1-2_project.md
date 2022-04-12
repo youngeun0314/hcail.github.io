@@ -2,7 +2,7 @@
 layout: page
 title: Explainable AI (XAI)
 description:
-img: #assets/img/proj_1-1.png
+img: assets/img/proj_1-2.PNG
 importance: 2
 category: Artificial Intelligence
 ---

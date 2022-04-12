@@ -2,7 +2,7 @@
 layout: page
 title: Toward accessible daily living
 description:
-img: #assets/img/proj_1.png
+img: assets/img/proj_4-3.png
 importance: 3
 category: Accessibility & Aging
 ---

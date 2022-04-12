@@ -11,6 +11,10 @@ horizontal: false
 <h2>2022</h2>
   <ul>
   <li>
+    <p>[<b>Apr. 2022</b>] Invited Talk at Department of Computer Science, Yonsei University. [<a href="https://cs.yonsei.ac.kr:59290/bbs/board.php?bo_table=sub5_4&wr_id=5">link</a>]        
+  </p>
+  </li>
+  <li>
     <p>[<b>Feb. 2022</b>] Congratulations! The team HCAIL organized by our lab members including Subin Park,
     Taewon ­Yoo, Minki Chun, & Hyunggu Jung won the <a href="https://wowtale.net/2022/02/17/34466/">Excellent Prize</a>
     at the <a href="https://www.autoeverapp.kr/">Barrier Free App Development Contest</a> in Korea! [<a href="https://youtu.be/lDapRsaqcC8">video</a>]        

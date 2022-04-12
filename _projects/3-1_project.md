@@ -2,7 +2,7 @@
 layout: page
 title: Facilitating credibility & trust on online communities
 description:
-img: #assets/img/proj_1.png
+img: assets/img/proj_3-1.png
 importance: 1
 category: Social Computing
 ---
