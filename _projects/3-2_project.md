@@ -2,7 +2,7 @@
 layout: page
 title: Redesigning experiences of conference stakeholders
 description:
-img: assets/img/proj_3-2.png
+img: assets/img/proj_3-2.jpg
 importance: 2
 category: Social Computing
 ---

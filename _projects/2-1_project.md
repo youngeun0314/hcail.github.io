@@ -2,7 +2,7 @@
 layout: page
 title: mHealth
 description:
-img: assets/img/proj_2-1.png
+img: assets/img/proj_2-1.jpg
 importance: 1
 category: Digital Health
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Metaverse for older adults
 description:
-img: assets/img/proj_4-2.png
+img: assets/img/proj_4-2.jpg
 importance: 2
 category: Accessibility & Aging
 ---

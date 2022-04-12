@@ -2,7 +2,7 @@
 layout: page
 title: Human-centered AI
 description:
-img: assets/img/proj_1-1.png
+img: assets/img/proj_1-1.jpg
 importance: 1
 category: Artificial Intelligence
 ---

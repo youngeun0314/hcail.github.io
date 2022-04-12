@@ -2,7 +2,7 @@
 layout: page
 title: Clinical Informatics
 description:
-img: assets/img/proj_2-2.png
+img: assets/img/proj_2-2.jpg
 importance: 2
 category: Digital Health
 ---

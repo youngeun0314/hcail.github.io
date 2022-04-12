@@ -2,7 +2,7 @@
 layout: page
 title: Clinical research informatics
 description:
-img: assets/img/proj_2-3.png
+img: assets/img/proj_2-3.jpg
 importance: 3
 category: Digital Health
 ---
