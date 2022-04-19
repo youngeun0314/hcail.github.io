@@ -34,9 +34,7 @@ We are pursing research in the combinations of the following directions:
 <blockquote>
 Our mission is
 to advance AI research through design and engineering
-to support individuals with special needs
-across multiple domains:
-health, social media, sharing economy, and education but not limited to those areas.
+to support individuals with special needs.
 </blockquote>
 
 ---
