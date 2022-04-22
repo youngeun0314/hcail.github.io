@@ -8,7 +8,8 @@ nav: true
 
 <h4>Hyunggu's Presentation @Urban Bigdata and AI Institute</h4>
 <b>Leveraging Human-Centered AI to Improve Decision Making in Health Informatics</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/InN5-mk6TrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0 maximum-scale=1.0">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/InN5-mk6TrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></meta>
 <br>
 <h4>Subin's Presentation @ACM CSCW'21</h4>
 <b>Exploring the Experiences of Student Volunteer and Student Volunteer Chair Communities at Academic Conferences</b>
