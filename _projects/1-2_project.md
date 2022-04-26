@@ -15,7 +15,7 @@ category: Artificial Intelligence
 
 #### Abstract
 Emergency patients' Interhospital transfers (IHT) is becoming important due to adverse clinical outcomes and overcrowding of the transferred emergency department (ED). Since determining whether referred patients should be authorized needs deep consideration of multiple influencing factors, experienced ED patient flow nurses take the critical responsibility of making this decision in order to enhance the efficiency of ED management. Artificial Intelligence (AI) systems have been developed to support health providers’ decisions. However, it is questionable whether health providers are willing to follow the decisions recommended by such AI systems due to its unclear decision-making process. In this study, we propose an XAI framework to increase nurses’ confidence in the decision recommended by the AI system in an IHT scenario.
-#### Abstract
+
 For more details, visit: [`pdf`](https://taih21.github.io/CameraReady/26.pdf)
 
 ***

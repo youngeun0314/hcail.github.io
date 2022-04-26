@@ -15,7 +15,7 @@ category: Artificial Intelligence
 
 #### Abstract
 Students leverage online resources such as online classes and YouTube is increasing. Still, there remain challenges for students to easily find the right lecture video online at the right time. Multiple video search methods have been proposed, but to our knowledge, no previous study has proposed a system that summarize YouTube lecture videos using subtitles. This demo proposes LectYS, a system for summarizing lecture videos on YouTube to support students search for lecture video content on YouTube. The key features of our proposed system are: (1) to summarize the lecture video using the subtitle of the video, (2) to access to the specific parts of the video using the start time of video subtitle, and (3) to search for the video with keyword. Using LectYS, students are allowed to search for lecture videos on YouTube faster and more accurately.
-#### Abstract
+
 For more details, visit: [`acm dl`](https://dl.acm.org/doi/10.1145/3397482.3450722) [`video`](https://www.youtube.com/watch?v=cB9KvMVU1CU)
 
 ***
