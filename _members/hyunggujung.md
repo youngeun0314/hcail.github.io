@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hyunggu Jung
-title_s1: HCAIL Director
+title_s1: Director
 title_s2: University of Seoul
 description: hjung [at] uos.ac.kr
 img: assets/img/profhjung.png

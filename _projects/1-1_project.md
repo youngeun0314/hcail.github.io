@@ -11,6 +11,10 @@ category: Artificial Intelligence
 
 ***
 
+###### Toward an AI-assisted Assessment Tool to Support Online Art Therapy Practices: A Pilot Study
+
+***
+
 ###### LectYS: A System for Summarizing Lecture Videos on YouTube. In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI'21). ACM, Zoom, April 2021.
 
 #### Abstract

@@ -11,9 +11,30 @@ horizontal: false
 <h2>2022</h2>
   <ul>
   <li>
+    <p>[<b>Apr. 2022</b>] Welcome! Donggyu Kim joined HCAIL as a research intern, and Yunjung Bae and Soohyun Kwon joined HCAIL as a undergradate research intern, respectively!        
+  </p>
+  </li>
+  <li>
+    <p>[<b>Apr. 2022</b>] Our paper has been accepted to appear at the 20th European Conference on Computer-Supported Cooperative Work (ECSCW’22), Coimbra, Portugal (June 2022). [<a href="https://ecscw.eusset.eu/2022/full-program-schedule/">link</a>]        
+  </p>
+  </li>
+
+
+
+  <li>
     <p>[<b>Apr. 2022</b>] Invited Talk at Department of Computer Science, Yonsei University. [<a href="https://cs.yonsei.ac.kr:59290/bbs/board.php?bo_table=sub5_4&wr_id=5">link</a>]        
   </p>
   </li>
+
+
+
+
+
+  <li>
+    <p>[<b>Apr. 2022</b>]   Hyunggu Jung has started to serve as a chair of the SIGCHI Korea local chapter.      
+  </p>
+  </li>
+
   <li>
     <p>[<b>Feb. 2022</b>] Congratulations! The team HCAIL organized by our lab members including Subin Park,
     Taewon ­Yoo, Minki Chun, & Hyunggu Jung won the <a href="https://wowtale.net/2022/02/17/34466/">Excellent Prize</a>
