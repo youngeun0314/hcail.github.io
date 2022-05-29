@@ -11,7 +11,14 @@ horizontal: false
 <h2>2022</h2>
   <ul>
   <li>
-    <p>[<b>Apr. 2022</b>] Welcome! Donggyu Kim joined HCAIL as a research intern, and Yunjung Bae and Soohyun Kwon joined HCAIL as a undergradate research intern, respectively!        
+    <p>[<b>May 2022</b>] Hyunggu Jung delivered his keynote speech at the Annual Spring Conference
+    of the Research Institute of Nursing Science,
+    Cheonnam National University, Gwangju,
+    Korea! [<a href="http://crins530.jnuac.kr/bbs/board.php?bo_table=0401&wr_id=230">link</a>]        
+  </p>
+  </li>
+  <li>
+    <p>[<b>Apr. 2022</b>] Welcome! Yunjung Bae and Soohyun Kwon joined HCAIL as a undergradate research intern, respectively!        
   </p>
   </li>
   <li>
