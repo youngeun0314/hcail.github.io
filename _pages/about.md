@@ -45,7 +45,7 @@ HCAIL group photo at the [ACM FAcct](https://facctconference.org/2022/) conferen
 
 #### Interested in joining HCAIL as a MS or PhD student?
 Visit \[[석사과정/박사과정 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\] and feel free to email me if you are interested in joining HCAIL a MS or PhD student.
-For Spring 2022, we aim to admit up to <font color="red"><b>2-3 new M.S. or Ph.D. students</b></font>.
+For Spring 2023, we aim to admit up to <font color="red"><b>2-3 new M.S. or Ph.D. students</b></font>.
 
 HCAIL 연구실 자료 참고바랍니다:
 \[[슬라이드](https://docs.google.com/presentation/d/1dLdkG51tykdBF7ljAPTrbqyBCR6B3QKO6wicJYrEzJg/edit#slide=id.p)\]
