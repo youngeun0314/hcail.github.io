@@ -8,4 +8,4 @@ Hyeonhak, Hyunmin, Minki, Saeri, Soohyun, Sungmin,
 Taewon, & Yunjung
 served as a student volunteer at
 <a href="https://facctconference.org/2022/">FAcct’22</a>
-successfully! (June 2022). :sparkles: :smile:
+successfully! :sparkles: :smile:
