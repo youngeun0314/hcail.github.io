@@ -10,6 +10,37 @@ horizontal: false
 
 <h2>2022</h2>
   <ul>
+
+  <li>
+    <p>
+    [<b>June 2022</b>]
+    Hyeonhak, Hyunmin, Minki, Saeri, Soohyun, Sungmin,
+    Taewon, & Yunjung
+    served as a student volunteer at
+    <a href="https://facctconference.org/2022/">FAcct’22</a>
+    successfully! (June 2022). :sparkles: :smile:
+  </p>
+  </li>
+  <li>
+    <p>
+    [<b>June 2022</b>]
+    Hyunggu Jung gave his talk about how to leverage techniques and methods
+    for better use of open notes at KOSMI'22, Wonju Severance Christian Hospital,
+    Wonju, Korea. :sparkles: :smile: [<a href="https://www.smartpatient.re.kr/">link</a>]
+  </p>
+  </li>
+  <li>
+    <p>
+    [<b>June 2022</b>]
+    Two papers have been accepted to appear at
+    KCC 2022, Seogwipo, Korea (June 2022). :sparkles: :smile:
+    [<a href="https://www.kiise.or.kr/conference/kcc/2022/">link</a>]
+  </p>
+  </li>
+
+
+
+
   <li>
     <p>[<b>May 2022</b>] Hyunggu Jung delivered his keynote speech at the Annual Spring Conference
     of the Research Institute of Nursing Science,
