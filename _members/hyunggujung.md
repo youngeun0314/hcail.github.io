@@ -52,12 +52,22 @@ Research Assistant, Stanford Center for Biomedical Informatics Research, Stanfor
 
 ### Professional Activities
 <ul>
+
+<li>
+Chair, ACM SIGCHI Korea Local Chapter 2022-Present
+</li>
+
 <li>
 Associate Chair, ACM CSCW 2021-Present
 </li>
 
+
 <li>
-Officer, Korea ACM SIGCHI Chapter 2018-Present
+Local & Finance Chair, SIGCHI Korea Local Chapter Summer Event, 2022
+</li>
+
+<li>
+Officer, ACM SIGCHI Korea Local Chapter 2018-2022
 </li>
 
 <li>Associate Chair, ACM CHI 2021 Late-Breaking works track
