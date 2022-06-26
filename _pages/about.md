@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: #prof_pic.jpg
   address: #>
     #<p>서울특별시 동대문구 서울시립대로 163</p>
     #<p>정보기술관 B109호</p>
@@ -15,6 +15,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+<img src="./assets/img/hcail_facct2022.jpg" alt="HCAIL at the the FAcct 2022 conference" width="100%" >
+HCAIL group photo at [FAcct'22](https://facctconference.org/2022/) in June 2022! Photo credit to Prof. [Kyungwoo Song](https://mlai.uos.ac.kr/).
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
 We are a research group
@@ -38,8 +41,7 @@ to support individuals with special needs.
 </blockquote>
 
 
-<img src="./assets/img/hcail_facct2022.jpg" alt="HCAIL at the the FAcct 2022 conference" width="100%" >
-HCAIL group photo at the [ACM FAcct](https://facctconference.org/2022/) conference in June 2022! Photo credit to Prof. [Kyungwoo Song](https://mlai.uos.ac.kr/).
+
 
 ---
 
