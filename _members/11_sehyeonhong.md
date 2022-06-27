@@ -7,5 +7,5 @@ description: sehyeon [at] knu.ac.kr
 img: assets/img/shong.jpeg
 redirect: https://sites.google.com/view/sehyeonhong/home
 importance: 11
-category: current
+category: alumni
 ---

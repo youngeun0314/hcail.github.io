@@ -58,6 +58,18 @@ horizontal: false
 
 <table style="width:100%">
 <tr>
+  <td class="c2">Jiwon Chun</td>
+  <td class="c2">Undergraduate Research Intern</td>
+  <td class="c2">Sookmyung Women's University</td>
+  <td class="c2">Winter 2021 - Spring 2022</td>
+</tr>
+<tr>
+  <td class="c2">Sehyeon Hong</td>
+  <td class="c2">Undergraduate Research Intern</td>
+  <td class="c2">Kyungpook National University</td>
+  <td class="c2">Summer 2021 - Winter 2021</td>
+</tr>
+<tr>
   <td class="c2">Woohyun Cho</td>
   <td class="c2">Undergraduate Research Intern</td>
   <td class="c2">University of Michigan</td>
