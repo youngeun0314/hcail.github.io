@@ -13,6 +13,47 @@ horizontal: false
 
   <li>
     <p>
+        [<b>July 2022</b>]
+    Hyunggu served as a local & finance chair, and Hyeonhak, Hyunmin, Minki, Saeri, Soohyun, Sungmin, & Yunjung as a student volunteer at the
+    <a href="https://2022summer.sigchi.kr/">2022 SIGCHI Korea Local Chapter Summer Event</a>
+    successfully! [<a href="https://youtu.be/DMcm53MGwpU">video</a>]
+  </p>
+  </li>
+  <li>
+    <p>
+        [<b>July 2022</b>]
+    Our paper has been conditionally accepted to appear at
+    <a href="https://cscw.acm.org/2022/">CSCW'22</a>, Zoom (Oct 2022). :sparkles: :smile:
+  </p>
+  </li>
+  <li>
+    <p>
+        [<b>July 2022</b>]
+    Two papers about responsible AI were presented at
+    <a href="https://www.kiise.or.kr/conference/kcc/2022/">KCC'22</a>
+    in Seogwipo, Korea. :sparkles: :smile:
+  </p>
+  </li>
+  <li>
+    <p>
+        [<b>June 2022</b>]
+    Hyunggu Jung gave his invited talk about human-centered AI techniques and methods
+    for improving decision making in a health domain at
+    the workshop organized by the database society at
+    <a href="https://www.kiise.or.kr/conference/main/getContent.do?CC=KCC&CS=2022&PARENT_ID=011600&content_no=1594">KCC'22</a>,
+    Seogwipo, Korea. :sparkles: :smile:
+  </p>
+  </li>
+  <li>
+    <p>
+    [<b>June 2022</b>]
+    Our paper about how to support art therapists through an AI-assisted tool was presented at
+    <a href="https://ecscw.eusset.eu/2022/">ECSCW'22</a>
+    in Coimbra, Portugal. :sparkles: :smile:
+  </p>
+  </li>
+  <li>
+    <p>
     [<b>June 2022</b>]
     Hyeonhak, Hyunmin, Minki, Saeri, Soohyun, Sungmin,
     Taewon, & Yunjung
