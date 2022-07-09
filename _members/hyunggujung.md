@@ -54,7 +54,7 @@ Research Assistant, Stanford Center for Biomedical Informatics Research, Stanfor
 <ul>
 
 <li>
-Chair, ACM SIGCHI Korea Local Chapter 2022-Present
+President, ACM SIGCHI Korea Local Chapter 2022-Present
 </li>
 
 <li>

@@ -67,7 +67,13 @@ horizontal: false
   <td class="c2">Sehyeon Hong</td>
   <td class="c2">Undergraduate Research Intern</td>
   <td class="c2">Kyungpook National University</td>
-  <td class="c2">Summer 2021 - Winter 2021</td>
+  <td class="c2">Summer 2021 - Winter 2022</td>
+</tr>
+<tr>
+  <td class="c2">Gwanhee Lee</td>
+  <td class="c2">Undergraduate Research Intern</td>
+  <td class="c2">Amazon Web Services</td>
+  <td class="c2">Winter 2021 - Winter 2022</td>
 </tr>
 <tr>
   <td class="c2">Woohyun Cho</td>
