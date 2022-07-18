@@ -10,7 +10,10 @@ horizontal: false
 
 <h2>2022</h2>
   <ul>
-
+  <li>
+    <p>[<b>July 2022</b>] Welcome! Jeongyoon Park joined HCAIL as an undergradate research intern!        
+  </p>
+  </li>
   <li>
     <p>
         [<b>July 2022</b>]
@@ -37,6 +40,18 @@ horizontal: false
   <li>
     <p>
         [<b>June 2022</b>]
+        Subin Park
+      was selected as a recipient of the OnDream Future Technology Scholarship
+      from Hyundai Motor Chung Mong-Koo Foundation!
+      Awarded to top student researchers like her with 5 pubs already
+      as an undergradate research intern at HCAIL.
+      [<a href="https://twitter.com/hyunggu/status/1546987945831600129">link</a>]
+      :sparkles: :smile:
+  </p>
+  </li>
+  <li>
+    <p>
+        [<b>June 2022</b>]
     Hyunggu Jung gave his invited talk about human-centered AI techniques and methods
     for improving decision making in a health domain at
     the workshop organized by the database society at
@@ -50,6 +65,10 @@ horizontal: false
     Our paper about how to support art therapists through an AI-assisted tool was presented at
     <a href="https://ecscw.eusset.eu/2022/">ECSCW'22</a>
     in Coimbra, Portugal. :sparkles: :smile:
+  </p>
+  </li>
+  <li>
+    <p>[<b>June 2022</b>] Welcome! Seung Young Oh joined HCAIL as an undergradate research intern!        
   </p>
   </li>
   <li>
@@ -90,7 +109,7 @@ horizontal: false
   </p>
   </li>
   <li>
-    <p>[<b>Apr. 2022</b>] Welcome! Yunjung Bae and Soohyun Kwon joined HCAIL as a undergradate research intern, respectively!        
+    <p>[<b>Apr. 2022</b>] Welcome! Yunjung Bae and Soohyun Kwon joined HCAIL as an undergradate research intern, respectively!        
   </p>
   </li>
   <li>
@@ -256,7 +275,7 @@ horizontal: false
       <a href="https://rins.snu.ac.kr/">Research Institute of Nursing Science</a>,
       Seoul National University, Seoul, Korea.</p></li>
       <li><p>[<b>Mar. 2021</b>] Welcome! Jeongjin Park joined HCAIL
-        as a undergradate research intern.</p>
+        as an undergradate research intern.</p>
       </li>
       <li><p>[<b>Mar. 2021</b>] Welcome! JinHyun Han joined HCAIL as a Ph.D. student.</p>
       </li>
