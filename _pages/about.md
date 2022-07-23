@@ -41,10 +41,6 @@ to support individuals with special needs.
 </blockquote>
 
 
-### 깃발 꽂는 연구수행에 관심있으실지요?
-
-
-### HCAIL은 중요하면서도 재미있는 문제를 풀고 있습니다.
 
 ---
 
