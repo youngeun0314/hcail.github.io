@@ -11,10 +11,6 @@ horizontal: false
 <h2>2022</h2>
   <ul>
   <li>
-    <p>[<b>July 2022</b>] Welcome! Jeongyoon Park joined HCAIL as an undergradate research intern!        
-  </p>
-  </li>
-  <li>
     <p>
         [<b>July 2022</b>]
     Hyunggu served as a local & finance chair, and Hyeonhak, Hyunmin, Minki, Saeri, Soohyun, Sungmin, & Yunjung as a student volunteer at the
