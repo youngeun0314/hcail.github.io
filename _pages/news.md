@@ -327,7 +327,9 @@ horizontal: false
       <li><p>[<b>Feb. 2020</b>] Our five papers have been accepted to appear at the <a href="https://asian-chi.github.io/2020//">Asian CHI Symposium 2020</a> at CHI'20 in Honolulu, HI, USA (Apr. 2020).</p>
   </li>
   <li><p>[<b>Jan. 2020</b>] Our paper has been published in the <a href="https://link.springer.com/article/10.1007/s10209-019-00706-6/">Universal Access in the Information Society (UAIS)</a> journal.</p>
+  </li>
   </ul>
+
   <h2>2019</h2>
   <ul>
     <li><p>[<b>Nov. 2019</b>] Hyunggu Jung has been invited to serve as an Associate Chair for the CHI 2020 Late-Breaking Work (LBW) Program Committee.</p>
@@ -369,6 +371,7 @@ horizontal: false
   <li><p>[<b>Jan. 2019</b>] SWCON103 Design Thinking final presentation video available. [<a href="https://youtu.be/5qxj_5pFPSg">video</a>]</p>
   </li>
   </ul>
+
   <h2>2018</h2>
   <ul>
   <li><p>[<b>Dec. 2018</b>] Four papers have been accepted to appear at <a href="http://conference.hcikorea.org/hcik2019/">HCI Korea 2019</a> in Jeju, Korea (Feb. 2019).</p>
