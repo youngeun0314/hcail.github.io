@@ -9,9 +9,7 @@ importance: 19
 category: current
 ---
 
-
-
-###Short Bio
+### Short Bio
 <p>Wanhae Lee is a software engineer at <a href="https://www.kakaocorp.com/page/?lang=en">KakaoCorp</a>, CloudPlatform Team and a research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. He received his B.S. in <a href="ttps://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science and Engineering</a> from the <a href="https://www.uos.ac.kr/">University of Seoul</a> in 2022.</p>
 
 ### Education
