@@ -2,7 +2,7 @@
 layout: page
 title: Wanhae Lee
 title_s1: Research Intern
-title_s2: KakaoCorp
+title_s2: University of Seoul
 description: iwanhae [at] gmail.com
 img: assets/img/wlee.png
 importance: 19
