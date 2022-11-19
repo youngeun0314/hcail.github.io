@@ -22,7 +22,7 @@ horizontal: false
       <p>[<b>Nov. 2022</b>] Our paper about an community of model publishers on TensorFlow hub was presented at <a href="https://cscw.acm.org/2022/">CSCW’22</a>, Virtual.
       </p></li>
       <li>
-      <p>[<b>Nov. 2022</b>] Our paper has been published
+      <p>[<b>Nov. 2022</b>] Our paper about fairness in artificial intelligence has been published
       in <a href="https://www.dbpia.co.kr/journal/voisDetail?voisId=VOIS00697449">Communications of the Korean Institute of Information Scientists and Engineers.</a></p></li>
   <li>
     <p>[<b>Oct. 2022</b>] Sungmin served as a student volunteer at
