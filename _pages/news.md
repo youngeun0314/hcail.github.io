@@ -11,9 +11,30 @@ horizontal: false
 <h2>2022</h2>
   <ul>
   <li>
+    <p>[<b>Nov. 2022</b>] Hyunmin and Soohyun served as a student volunteer at
+    <a href="https://cscw.acm.org/2022/">CSCW’22</a>
+    successfully! :sparkles: :smile:
+    </p></li>
+  <li>
+    <p>[<b>Nov. 2022</b>] Welcome! Wanhae Lee joined HCAIL as a research intern!
+    </p></li>
+    <li>
+      <p>[<b>Nov. 2022</b>] Our paper about an community of model publishers on TensorFlow hub was presented at <a href="https://cscw.acm.org/2022/">CSCW’22</a>, Virtual.
+      </p></li>
+      <li>
+      <p>[<b>Nov. 2022</b>] Our paper has been published
+      in <a href="https://www.dbpia.co.kr/journal/voisDetail?voisId=VOIS00697449">Communications of the Korean Institute of Information Scientists and Engineers.</a></p></li>
+  <li>
+    <p>[<b>Oct. 2022</b>] Sungmin served as a student volunteer at
+    <a href="https://uist.acm.org/uist2022/">UIST’22</a>
+    successfully! :sparkles: :smile:
+    </p>
+    </li>
+  <li>
     <p>[<b>Sep. 2022</b>] Our paper has been accepted for publication in the <a href="https://www.springer.com/journal/10209">
     Universal Access in the Information Society (UAIS)</a> journal.
-    </p></li>
+    </p>
+  </li>
   <li>
     <p>
         [<b>July 2022</b>]
