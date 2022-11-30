@@ -3,18 +3,18 @@ layout: page
 title: Hyeonhak Jeong
 title_s1: M.S. Student
 title_s2: University of Seoul
-description: uosmorrie24 [at] khu.ac.kr
+description: uosmorrie24 [at] uos.ac.kr
 img: assets/img/hjeong.jpeg
 importance: 6
 category: current
 ---
 
 ### Short Bio
-<p>Hyeonhak Jeong is a masters student in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> at <a href="https://www.uos.ac.kr/">University of Seoul</a>.
+<p>Hyeonhak Jeong is a masters student in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> at <a href="https://www.uos.ac.kr/">University of Seoul</a>.</p>
 
 ### Education
 <ul>
-<li>Masters student in Computer Science, University of Seoul from 2021.
+<li>M.S. candidate in Computer Science, University of Seoul from 2021.
 </li>
 <li>B.S. Computer Science and Engineering, University of Seoul, 2021.
 </li>
@@ -28,7 +28,7 @@ category: current
 
 ### Professional Activities
 <ul>
-<li>Student Volunteer Chair, SIGCHI Korea Local Chapter Summer Event 2022.
+<li>Student Volunteer Co-chair, SIGCHI Korea Local Chapter Summer Event 2022.
 </li>
 <li>Student Volunteer, ACM FAccT 2022.
 </li>
