@@ -2,9 +2,9 @@
 layout: page
 title: Wanhae Lee
 title_s1: Research Intern
-title_s2: University of Seoul
+title_s2: KakaoCorp
 description: iwanhae [at] gmail.com
-img: assets/img/wlee.png
+img: 
 importance: 19
 category: current
 ---
@@ -14,7 +14,7 @@ category: current
 
 ### Education
 <ul>
-<li>B.S. Computer Science, University of Seoul, 2022
+<li>B.S. Computer Science, University of Seoul, 2016-2022.
 </li>
 </ul>
 
@@ -24,17 +24,28 @@ category: current
 </li>
 <li>Software Engineer, KakaoCorp, Seoul, Korea from July 2020.
 </li>
+<li>Teaching Assistant (Discrete Mathematics), University of Seoul, Seoul, Korea Mar. 2020-Jun. 2020.
+</li>
 </ul>
 
 ### Professional Activities
 <ul>
-<li>XXX
+<li>Speaker, if(kakao)dev, KakaoCorp 2022. 
 </li>
+<li>Speaker, OpenInfra & Cloud Native Days Korea 2022.
+</li>
+<li>Speaker, KubeCon + CloudNativeCon North Armerica, CNCF 2022.
 </ul>
 
 ### Honors & Awards
 <ul>
-<li>XXX
+<li>Academic Excellence Award, University of Seoul, Spring 2020.
+</li>
+<li>Academic Excellence Award, University of Seoul, Spring & Fall 2017.
+</li>
+<li>Top award, SemTeulJe (Software Competition), Department of Computer Science and Engineering, University of Seoul , 2016.
+</li>
+<li>Seoul Mayor's Award for Excellent Achievement, Seoul Metropolitan City, 2016.
 </li>
 </ul>
 

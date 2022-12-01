@@ -3,7 +3,7 @@ layout: page
 title: Hyeonhak Jeong
 title_s1: M.S. Student
 title_s2: University of Seoul
-description: uosmorrie24 [at] uos.ac.kr
+description: drummycrane [at] gmail.com
 img: assets/img/hjeong.jpeg
 importance: 6
 category: current
@@ -14,7 +14,7 @@ category: current
 
 ### Education
 <ul>
-<li>M.S. candidate in Computer Science, University of Seoul from 2021.
+<li>Masters student in Computer Science, University of Seoul from 2021.
 </li>
 <li>B.S. Computer Science and Engineering, University of Seoul, 2021.
 </li>
@@ -22,21 +22,25 @@ category: current
 
 ### Employment History
 <ul>
-<li>Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from 2021.
+<li>Research Assistant, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Feb. 2021.
+</li>
+<li>Undergraduate Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from July 2020 to Feb. 2021.
 </li>
 </ul>
 
 ### Professional Activities
 <ul>
-<li>Student Volunteer Co-chair, SIGCHI Korea Local Chapter Summer Event 2022.
+<li>Student Volunteer, ACM ASSET 2021-2022.
+</li>
+<li>Student Volunteer Chair, SIGCHI Korea Local Chapter Summer Event 2022.
 </li>
 <li>Student Volunteer, ACM FAccT 2022.
 </li>
 <li>Student Volunteer, ACM TEI 2022.
 </li>
-<li>Student Volunteer, ACM ASSET 2021-2022.
-</li>
 <li>Student Volunteer, MobileHCI 2021.
+</li>
+<li>Student Volunteer, ACM CHI 2021.
 </li>
 <li>Student Volunteer, ACM IUI 2021.
 </li>

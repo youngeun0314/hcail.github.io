@@ -3,7 +3,7 @@ layout: page
 title: Sungmin Na
 title_s1: Research Intern
 title_s2: University of Washington
-description: sn815 [at] uw.edu
+description: sungminna97 [at] gmail.com
 img: assets/img/sna.png
 importance: 7
 category: current
@@ -14,7 +14,7 @@ category: current
 
 ### Education
 <ul>
-<li>B.A. Sociology, University of Washington, 2020
+<li>B.A. Sociology, University of Washington, 2020.
 </li>
 </ul>
 
@@ -22,23 +22,37 @@ category: current
 <ul>
 <li>Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Oct. 2020.
 </li>
-<li>Social Media Coordinator, EngageADX, Inc., XXX from Sept. 2019.
+<li>Social Media Coordinator, EngageADX, Inc. from Sept. 2019.
 </li>
 </ul>
 
 ### Professional Activities
 <ul>
-<li>Student Volunteer, XXX 20XX
+<li>Reviewer, ACM CSCW 2022 Poster.
+</li>
+<li>Student Volunteer, W4A 2022.
+</li>
+<li>Student Volunteer, ACM UIST 2021-2022.
+</li>
+<li>Student Volunteer, ACM ASSETS 2021-2022.
+</li>
+<li>Student Volunteer, ACM RecSys 2021-2022.
+</li>
+<li>Student Volunteer, SIGCHI Korea Local Chapter Summer Event 2022.
+</li>
+<li>Student Volunteer, ACM FAccT 2022.
+</li>
+<li>Student Volunteer, ACM DIS 2021.
 </li>
 </ul>
 
 ### Honors & Awards
 <ul>
-<li>XXX
+<li>Gary Marsden Travel Awards, ACM SIGCHI.
 </li>
 </ul>
 
-For more information, visit Na's [personal website](https://sungminna97.wixsite.com/hci-researcher).
+For more information, visit Na's [personal website](https://sungminna97.wixsite.com/my-site).
 
 <!-- _pages/publications.md -->
 <div class="publications">

@@ -5,13 +5,12 @@ title_s1: Undergraduate Research Intern
 title_s2: University of Southern California
 description: lbae [at] usc.edu
 img: assets/img/yjbae.png
-redirect:
 importance: 16
 category: current
 ---
 
 ### Short Bio
-<p>Yunjung Bae is an undergraduate student majoring in <a href="https://dornsife.usc.edu/cognitive-science">Cognitive Science</a> at the <a href="https://www.usc.edu/">University of Southern California</a>. She is a research intern at the <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. She is a recipient of the 2022 <a href="https://dornsife.usc.edu/scholarship-descriptions/#haltom">Margaret P. and Paul T. Haltom, Sr. Endowed Scholarship</a>.</p>
+<p>Yunjung Bae is an undergraduate student majoring in <a href="https://dornsife.usc.edu/cognitive-science">Cognitive Science</a> at the <a href="https://www.usc.edu/">University of Southern California</a>. She is a research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. She is a recipient of the 2022 <a href="https://dornsife.usc.edu/scholarship-descriptions/#haltom">Margaret P. and Paul T. Haltom, Sr. Endowed Scholarship</a>.</p>
 
 ### Education
 <ul>
@@ -45,7 +44,7 @@ category: current
 </li>
 </ul>
 
-For more information, visit Bae's [personal website](https://yunjungbae.notion.site/Yunjung-Lynn-Bae-1bb6171e3ee94db4b66c52a7b544d6b7).
+For more information, visit Bae's [personal website](https://yunjung-bae.github.io/).
 
 <!-- _pages/publications.md -->
 <div class="publications">

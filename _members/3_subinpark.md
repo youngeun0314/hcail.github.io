@@ -10,39 +10,39 @@ category: current
 ---
 
 ### Short Bio
-<p>Subin Park is an undergraduate student at <a href="https://www.khu.ac.kr">Kyung Hee University</a>, <a href="http://swcon.khu.ac.kr/">Department of Software Convergence</a>. She was a Junior Researcher of <a href="https://r4d.mercari.com/en/">Mercari R4D</a> from 2021 to 2022. She is a recipient of the 2022 <a href="http://www.hyundai-cmkfoundation.org/com/esScholarship.do">OnDream Scholarship</a> and <a href="https://sigchi.org/awards/gary-marsden-travel-awards/">Gary Marsden Travel Awards</a>.
+<p>Subin Park is an undergraduate student at <a href="https://www.khu.ac.kr">Kyung Hee University</a>, <a href="http://swcon.khu.ac.kr/">Department of Software Convergence</a>. She was a Junior Researcher of <a href="https://r4d.mercari.com/en/">Mercari R4D</a> from 2021 to 2022. She is a recipient of the 2022 <a href="http://www.hyundai-cmkfoundation.org/com/esScholarship.do">OnDream Scholarship</a> and <a href="https://sigchi.org/awards/gary-marsden-travel-awards/">Gary Marsden Travel Awards</a>.</p>
 
 ### Education
 <ul>
-<li>Undergraduate student in Software Convergence, Kyung Hee University, from 2019
+<li>Undergraduate student in Software Convergence, Kyung Hee University, from 2019.
 </li>
 </ul>
 
 ### Employment History
 <ul>
-<li>Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Sep.2019.
-</li>
 <li>Junior Researcher, Mercari R4D, Tokyo, Japan from Sep. 2021 to Oct. 2022.
+</li>
+<li>Undergraduate Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Sep.2019.
 </li>
 </ul>
 
 ### Professional Activities
 <ul>
-<li>Student Volunteer, ACM CSCW 2021
+<li>Student Volunteer, ACM CSCW 2021.
 </li>
-<li>Student Volunteer, ACM UIST 2021
+<li>Student Volunteer, ACM UIST 2021.
 </li>
-<li>Student Volunteer, ACM ASSETS 2021
+<li>Student Volunteer, ACM ASSETS 2021.
 </li>
-<li>Student Volunteer, ACM DIS 2021
+<li>Student Volunteer, ACM DIS 2021.
 </li>
-<li>Student Volunteer, ACM RecSys 2021
+<li>Student Volunteer, ACM RecSys 2021.
 </li>
-<li>Student Volunteer, ACM RecSys 2020
+<li>Student Volunteer, ACM RecSys 2020.
 </li>
-<li>Ghost Writer for Students with with Visual Impairments, Accessible Education Center, Kyung Hee University, 2020, 2022
+<li>Teaching Assistant, Kyung Hee University, 2020, 2022.
 </li>
-<li>Teaching Assistant, Kyung Hee University, 2020, 2022
+<li>Ghost Writer for Students with with Visual Impairments, Accessible Education Center, Kyung Hee University, 2020, 2022.
 </li>
 </ul>
 
