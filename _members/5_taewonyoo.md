@@ -22,7 +22,7 @@ category: current
 <ul>
 <li>Software Engineer, Penta Security Systems Inc., Seoul, Korea from Aug. 2021 (alternative military service).
 </li>
-<li>Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Feb. 2020.
+<li>Undergraduate Research Intern, HCAIL, University of Seoul, Seoul, Korea from Feb. 2020.
 </li>
 <li>Research Intern, KIST Europe Forschungsgesellschaft mbH, Saarbrücken, Germany from Aug. 2019 to Jan. 2020.
 </li>

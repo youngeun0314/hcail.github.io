@@ -22,7 +22,7 @@ category: current
 <ul>
 <li>Junior Researcher, Mercari R4D, Tokyo, Japan from Sep. 2021 to Oct. 2022.
 </li>
-<li>Undergraduate Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Sep.2019.
+<li>Undergraduate Research Intern, HCAIL, University of Seoul, Seoul, Korea from Sep.2019.
 </li>
 </ul>
 

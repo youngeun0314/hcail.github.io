@@ -1,34 +1,36 @@
 "Lee":
   - firstname: ["Hyunmin"]
     url: https://yunoa64.github.io/
+  - firstname: ["Wanhae"]
+    url: https://iwanhae.github.io/wanhae-lee/
+  - firstname: ["Jihyun"]
+    url: https://sites.google.com/khu.ac.kr/2azy/
+  - firstname: ["Gwanhee"]
+    url: https://island-centaur-646.notion.site/GWANHEE-LEE-210f68ce4a6f48d1b1c2c75ceea85614
 
-"Minji":
-  - firstname: ["Kwon"]
-    url:
+"Seo":
+  - firstname: ["Woosuk"]
+    url: https://seowoosuk.wixsite.com/home
 
-"Suin":
-  - firstname: ["Gwak"]
+"Kwon":
+  - firstname: ["Soohyun"]
+    url: https://skwon017.github.io/
+
+"Bae":
+  - firstname: ["Yunjung"]
+    url: https://yunjung-bae.github.io/
+
+"Gwak":
+  - firstname: ["Suin"]
     url:
 
 "Joonho":
   - firstname: ["Gwon"]
     url:
 
-"Lee":
-  - firstname: ["Wanhae"]
-    url:
-
-"Jung":
-  - firstname: ["Heejae"]
-    url:
-
 "Park":
   - firstname: ["Subin"]
     url: http://nt.dariasubin.me/
-
-"Lee":
-  - firstname: ["Jihyun"]
-    url: https://sites.google.com/khu.ac.kr/2azy/
 
 "Yoo":
   - firstname: ["Taewon"]
@@ -50,10 +52,6 @@
   - firstname: ["Jinhyun"]
     url: https://www.linkedin.com/in/jin-hyun-han-2556029b/
 
-"Lee":
-  - firstname: ["Jihyun"]
-    url: https://sites.google.com/khu.ac.kr/2azy/
-
 "Kim":
   - firstname: ["Saeri"]
     url: https://www.linkedin.com/in/saerikim/
@@ -65,14 +63,6 @@
 "Hong":
   - firstname: ["Sehyeon"]
     url: https://sites.google.com/view/sehyeonhong/home
-
-"Lee":
-  - firstname: ["Gwanhee"]
-    url: https://island-centaur-646.notion.site/GWANHEE-LEE-210f68ce4a6f48d1b1c2c75ceea85614
-
-"Chun":
-  - firstname: ["Jiwon"]
-    url: https://oval-cry-a88.notion.site/Jiwon-Chun-1aac80f7bb8a42b7810eaaf82e8e7652
 
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
@@ -89,6 +79,3 @@
 "Bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach

@@ -24,7 +24,7 @@ category: current
 <ul>
 <li>Research Assistant, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Feb. 2021.
 </li>
-<li>Undergraduate Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from July 2020 to Feb. 2021.
+<li>Undergraduate Research Intern, HCAIL, University of Seoul, Seoul, Korea from July 2020 to Feb. 2021.
 </li>
 </ul>
 

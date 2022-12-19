@@ -11,6 +11,11 @@ horizontal: false
 <h2>2022</h2>
   <ul>
   <li>
+    <p>[<b>Dec. 2022</b>] Our paper has been accepted
+    for publication in the <a href="https://ieeeaccess.ieee.org/">
+    IEEE Access</a> journal.. :sparkles: :smile:
+    </p></li>
+  <li>
     <p>[<b>Nov. 2022</b>] Hyunmin and Soohyun served as a student volunteer at
     <a href="https://cscw.acm.org/2022/">CSCW’22</a>
     successfully! :sparkles: :smile:

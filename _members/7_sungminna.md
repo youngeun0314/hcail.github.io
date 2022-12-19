@@ -20,7 +20,7 @@ category: current
 
 ### Employment History
 <ul>
-<li>Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Oct. 2020.
+<li>Research Intern, HCAIL, University of Seoul, Seoul, Korea from Oct. 2020.
 </li>
 <li>Social Media Coordinator, EngageADX, Inc. from Sept. 2019.
 </li>

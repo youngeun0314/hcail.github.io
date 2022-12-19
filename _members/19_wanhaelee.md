@@ -2,7 +2,7 @@
 layout: page
 title: Wanhae Lee
 title_s1: Research Intern
-title_s2: University of Seoul
+title_s2: KakaoCorp
 description: iwanhae [at] gmail.com
 img: assets/img/wlee.png
 importance: 19
@@ -20,21 +20,33 @@ category: current
 
 ### Employment History
 <ul>
-<li>Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from Nov. 2022.
+<li>Research Intern, HCAIL, University of Seoul, Seoul, Korea from Nov. 2022.
 </li>
 <li>Software Engineer, KakaoCorp, Seoul, Korea from July 2020.
+</li>
+<li>Teaching Assistant (Discrete Mathematics), University of Seoul, Seoul, Korea, from Mar. 2020 to June 2020.
 </li>
 </ul>
 
 ### Professional Activities
 <ul>
-<li>XXX
+<li>Speaker, if(kakao)dev, KakaoCorp 2022.
+</li>
+<li>Speaker, OpenInfra & Cloud Native Days Korea 2022.
+</li>
+<li>Speaker, KubeCon + CloudNativeCon North Armerica, CNCF 2022.
 </li>
 </ul>
 
 ### Honors & Awards
 <ul>
-<li>XXX
+<li>Academic Excellence Award, University of Seoul, Spring 2020.
+</li>
+<li>Academic Excellence Award, University of Seoul, Spring & Fall 2017.
+</li>
+<li>Top award, SemTeulJe (Software Competition), Department of Computer Science and Engineering, University of Seoul , 2016.
+</li>
+<li>Seoul Mayor's Award for Excellent Achievement, Seoul Metropolitan City, 2016.
 </li>
 </ul>
 

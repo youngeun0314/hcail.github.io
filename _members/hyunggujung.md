@@ -10,7 +10,7 @@ category: current
 ---
 
 ### Short Bio
-<p>Hyunggu Jung is an assistant professor of <a href="https://www.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science and Engineering</a> and an assistant professor
+<p>Hyunggu Jung is an associate professor of <a href="https://www.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science and Engineering</a> and an associate professor
 of <a href="https://www.uos.ac.kr/engineering/depart/ai/welcome.do">Artificial Intelligence</a> at the <a href="https://www.uos.ac.kr/en/main.do">University of Seoul</a>
     and directs <a href="http://hcail.github.io">HCAIL</a>.
     He was an assistant professor of <a href="http://swcon.khu.ac.kr/">Software Convergence</a> at <a href="http://www.khu.ac.kr/eng">Kyung Hee University</a> from April 2018 to August 2019.
@@ -33,9 +33,13 @@ of <a href="https://www.uos.ac.kr/engineering/depart/ai/welcome.do">Artificial I
 <ul>
 <li>Department Chair, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Mar. 2021.
 </li><li>
-Assistant Professor, Department of Artificial Intelligence, University of Seoul, Seoul, Korea from Aug. 2020.
+Associate Professor, Department of Artificial Intelligence, University of Seoul, Seoul, Korea from Sep. 2022.
 </li><li>
-Assistant Professor, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Sep. 2019.
+Associate Professor, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Sep. 2022.
+</li><li>
+Assistant Professor, Department of Artificial Intelligence, University of Seoul, Seoul, Korea from Aug. 2020 to Aug. 2022.
+</li><li>
+Assistant Professor, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Sep. 2019 to Aug. 2022.
 </li><li>
 Assistant Professor, Department of Software Convergence, Kyung Hee University, Yongin, Korea from Apr. 2018 to Aug. 2019.
 </li><li>
@@ -46,7 +50,7 @@ Research Intern, Computer Science Lab, PARC, a Xerox Company, Palo Alto, CA from
 Research Intern, Natural Interaction Research Group, Microsoft Research, Redmond, WA from Jun. 2013 to Sep. 2013.
 </li><li>
 Research Assistant, Stanford Center for Biomedical Informatics Research, Stanford University, Stanford, CA from Sep. 2010 to Aug. 2011.
-</li><li>rch Assistant, Artificial Intelligence Research Group, University of Waterloo, Waterloo, ON, Canada from Sep. 2008 to Aug. 2010.
+</li><li>Research Assistant, Artificial Intelligence Research Group, University of Waterloo, Waterloo, ON, Canada from Sep. 2008 to Aug. 2010.
 </li>
 </ul>
 
