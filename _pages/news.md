@@ -11,6 +11,10 @@ horizontal: false
 <h2>2022</h2>
   <ul>
   <li>
+    <p>[<b>Jan. 2023</b>] Welcome! Youngeun Ju and Sanghun Kim joined HCAIL as a undergraduate research intern, respectively!     
+  </p>
+  </li>
+  <li>
     <p>[<b>Dec. 2022</b>] Our paper has been accepted
     for publication in the <a href="https://ieeeaccess.ieee.org/">
     IEEE Access</a> journal.. :sparkles: :smile:

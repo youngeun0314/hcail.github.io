@@ -6,6 +6,6 @@ title_s2: University of the Arts London
 description: s.kim0620201 [at] arts.ac.uk
 img: assets/img/skim.jpeg
 redirect: https://www.linkedin.com/in/saerikim/
-importance: 15
+importance: 4
 category: alumni
 ---

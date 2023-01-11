@@ -5,8 +5,8 @@ title_s1: Research Intern
 title_s2: Kyung Hee University
 description: 2018102130 [at] khu.ac.kr
 img: assets/img/jlee.png
-importance: 2
-category: current
+importance: 5
+category: alumni
 ---
 
 ### Short Bio
